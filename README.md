@@ -4,24 +4,6 @@ This repository contains a Python + Gurobi implementation of a **job assignment 
 
 > Note: This repo provides the optimization code. You must have **Gurobi** installed and a valid license to run the solver.
 
----
-
-## Contents
-
-- [Model summary](#model-summary)
-- [Repository structure](#repository-structure)
-- [Requirements](#requirements)
-- [Input data](#input-data)
-- [How to run](#how-to-run)
-- [Outputs](#outputs)
-- [Configuration](#configuration)
-- [Troubleshooting](#troubleshooting)
-- [Reproducibility notes](#reproducibility-notes)
-- [Citation](#citation)
-- [License](#license)
-
----
-
 ## Model summary
 
 ### Decision variables (high level)
